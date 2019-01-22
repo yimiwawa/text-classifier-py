@@ -9,6 +9,9 @@ python实现文本分类的常用方法，目前实现了两种ML算法，朴素
 
 代码使用参考子文件夹下README文件
 
+-- 2019.1.22 更新FastText --
+## FastText
+
 ## 实验数据
 
 百度网盘：链接: https://pan.baidu.com/s/1nvz47Jb 密码: hxda
